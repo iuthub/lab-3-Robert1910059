@@ -1,0 +1,57 @@
+body {
+  border: 10px solid white;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10px;
+}
+
+.name_status {
+  background-color: #a8f0f0;
+}
+
+.combined {
+  overflow: hidden;
+}
+.friend {
+  margin: 7px;
+  border: 5px solid #559696;
+  background-color: #a8f0f0;
+  padding: 5px;
+  float: left;
+}
+
+.name_status h1 {
+  text-align: end;
+}
+
+.name_status h2 {
+  text-align: end;
+  font-size: 14px;
+}
+
+img {
+  float: right;
+}
+
+.main1 {
+  background-color: #e8fbfb;
+  border: 4px solid #c2e9e9;
+  padding: 5px;
+  margin: 10px 0 0 0;
+  overflow: hidden;
+}
+
+.main2 {
+  background-color: #e8fbfb;
+  border: 4px solid #c2e9e9;
+  padding: 5px;
+  margin: 10px 0 0 0;
+  overflow: hidden;
+}
+
+h2 span {
+  border-bottom: 2px dashed rgb(133, 133, 238);
+}
+*:hover > div:hover > div:hover > *:hover {
+  color: yellow;
+}
